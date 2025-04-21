@@ -19,7 +19,7 @@ I’m a passionate QA professional with over 3 years of experience in:
 
 # 📁 Repository Structure
 
-# 🔍 `manual-testing/`
+### 🔍 `manual-testing/`
 - [Test-Cases-Example.xlsx](https://github.com/user-attachments/files/19830305/Test-Cases-Example.xlsx) – sample test cases 
 - [RHS Test Plan.docx](https://github.com/user-attachments/files/19830308/RHS.Test.Plan.docx) – a real-world test plan sample
 - [Bug-Report-Template.docx](https://github.com/user-attachments/files/19830306/Bug-Report-Template.docx) – standard bug reporting format

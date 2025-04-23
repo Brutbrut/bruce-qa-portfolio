@@ -1,7 +1,7 @@
 # 🧪 Bruce's QA Portfolio
 
 Welcome to my Quality Assurance (QA) Portfolio!  
-This repository is a curated collection of my experience and knowledge in **manual testing**, **API testing**, **SQL/database validation**, **automation testing using Selenium C#**, and **Agile documentation**. It demonstrates my hands-on skills as a **Quality Engineering Analyst**.
+This repository is a curated collection of my experience and knowledge in **manual testing**, **API testing**, **SQL/database validation**, **Exposure in automation testing using Selenium C#**, and **Agile documentation**. It demonstrates my hands-on skills as a **Quality Engineering Analyst**.
 
 ---
 
@@ -10,7 +10,7 @@ This repository is a curated collection of my experience and knowledge in **manu
 I’m a passionate QA professional with over 3 years of experience in:
 - Functional, Regression, and System Integration Testing
 - API Testing using Postman
-- Automation Testing using Selenium with C#
+- Exposure in aAutomation Testing using Selenium with C# and Leapwork (Drag and Drop)
 - SQL Database Testing
 - Agile/Scrum methodologies
 - Tools like JIRA (Confluence, Xray, Testrail), Azure DevOps (Test Plan)
